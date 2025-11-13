@@ -1,0 +1,10 @@
+var superHeroes = [];
+// const superPowers: string[] = [];
+var superPowers = [];
+superHeroes.push("Spiderman");
+superHeroes.push("Scarlet Witch");
+superPowers.push("Levitation");
+superPowers.push("Energy");
+var Users = [];
+Users.push({ name: "aryan", isActive: false });
+Users.push({ name: "peter", isActive: true });
